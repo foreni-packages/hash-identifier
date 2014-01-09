@@ -1,0 +1,3 @@
+version=3
+
+https://code.google.com/p/hash-identifier/downloads/list .*/Hash_ID_v(\d[\d.]*)\.(?:tgz|tbz2|txz|tar\.gz|tar\.bz2|tar\.xz|py)
